@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Titre de la page</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body style="backgroud-color:#ffffff">
+ 	<h1> Le ciel est Bleu </h1>
+ 	<h2> le caca est délicieux, ceci est un test pour le versionning sur git </h2>
+</body>
+</html>
